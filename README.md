@@ -1,16 +1,21 @@
-## Hi there 👋
+## tristan-renaud
 
-<!--
-**tristan-renaud/tristan-renaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# hello :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Tristan. I currently work at an MSP located on the beautiful Vancouver Island, Canada. I build and manage the companies automation and internal AI infrastructure and solutions with an emphasis on privacy for ourselves, and our clients.
+
+I never stop learning and am always looking for the next interesting things to dive into.
+
+---
+
+# loadout
+
+![Animation](./assets/skin.gif)
+
+**Editor:** neovim (lazyvim)
+**Terminal:** Ghostty
+**Multiplexor:** ~~tmux~~ Rex
+**Keyboard:** ZSA Voyager
+**Computer:** Mac Studio, DGX Spark
