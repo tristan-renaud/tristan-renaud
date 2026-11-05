@@ -2,11 +2,12 @@
 
 ### CHARACTER PROFILE
 
----
-
 **NAME** Tristan Renaud
+
 **CLASS** AI/Automation Infrastructure Engineer
+
 **WORK** RBS Managed IT Services Inc.
+
 **ORIGIN** Vancouver Island, Canada
 
 **STATUS** Active
