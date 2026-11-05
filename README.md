@@ -1,21 +1,41 @@
 ## tristan-renaud
 
-### hello :)
+### CHARACTER PROFILE
 
-My name is Tristan. I currently work at an MSP located on the beautiful Vancouver Island, Canada. I build and manage the companies automation and internal AI infrastructure and solutions with an emphasis on privacy for ourselves, and our clients.
+---
 
-I never stop learning and am always looking for the next interesting things to dive into.
+**NAME** Tristan Renaud
+**CLASS** AI/Automation Infrastructure Engineer
+**WORK** RBS Managed IT Services Inc.
+**ORIGIN** Vancouver Island, Canada
 
-### loadout
+**STATUS** Active
 
-![Animation](./assets/skin.gif)
+---
 
-**Editor:** neovim (lazyvim)
+### DESCRIPTION
 
-**Terminal:** Ghostty
+An infrastructure engineer operating out of Vancouver Island, Canada. Specializing in private artificial intelligent systems, Tristan designs and maintains such infrastructure that keeps both humans and machines connected.
 
-**Multiplexor:** ~~tmux~~ Rex
+A self-hosting enthusiast, terminal dweller, and compulsive tinkerer, he prefers understanding the machinery beneath the interface rather than simply using it.
 
-**Keyboard:** ZSA Voyager
+His current pursuits involve building autonomous agents, engineering local AI infrastructure, and eliminating repetitive work through automation.
 
-**Computer:** Mac Studio, DGX Spark
+---
+
+### LOADOUT
+
+<table>
+  <tr>
+    <td>
+      <strong>Editor:</strong> Neovim (lazyvim)<br><br>
+      <strong>Terminal:</strong> Ghostty<br><br>
+      <strong>Multiplexor:</strong> <del>tmux</del> Rex<br><br>
+      <strong>Keyboard:</strong> ZSA Voyager<br><br>
+      <strong>Computer:</strong> Mac Studio, DGX Spark
+    </td>
+    <td width="350" align="center">
+      <img src="assets/skin.gif" width="140">
+    </td>
+  </tr>
+</table>
