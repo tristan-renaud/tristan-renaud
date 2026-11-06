@@ -2,6 +2,8 @@
 
 ### CHARACTER PROFILE
 
+<img src="assets/head.gif" align="left" height="200" alt="Character animation">
+
 **Name:** Tristan Renaud  
 **Class:** AI/Automation Infrastructure Engineer  
 **Work:** RBS Managed IT Services Inc.  
@@ -11,6 +13,8 @@
 ---
 
 ### DESCRIPTION
+
+<img src="assets/atm.gif" align="left" height="200" alt="Character animation">
 
 An infrastructure engineer operating out of Vancouver Island, Canada. Specializing in private artificial intelligence systems, Tristan designs and maintains infrastructure that keeps both humans and machines connected.
 
