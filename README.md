@@ -22,7 +22,7 @@ His current pursuits involve building autonomous agents, engineering local AI in
 
 ### LOADOUT
 
-<img src="assets/skin.gif" align="right" height="170" alt="Character animation">
+<img src="assets/skin.gif" align="right" height="250" alt="Character animation">
 
 **Editor:** Neovim (LazyVim)
 
