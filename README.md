@@ -2,7 +2,7 @@
 
 ### CHARACTER PROFILE
 
-<img src="assets/head.gif" align="left" height="300" alt="Character animation">
+<img src="assets/head.gif" align="left" height="250" alt="Character animation">
 
 **Name:** Tristan Renaud  
 **Class:** AI/Automation Infrastructure Engineer  
@@ -14,7 +14,7 @@
 
 ### DESCRIPTION
 
-<img src="assets/atm.gif" align="left" height="300" alt="Character animation">
+<img src="assets/atm.gif" align="left" height="250" alt="Character animation">
 
 An infrastructure engineer operating out of Vancouver Island, Canada. Specializing in private artificial intelligence systems, Tristan designs and maintains infrastructure that keeps both humans and machines connected.
 
@@ -26,7 +26,7 @@ His current pursuits involve building autonomous agents, engineering local AI in
 
 ### LOADOUT
 
-<img src="assets/skin.gif" align="left" height="300" alt="Character animation">
+<img src="assets/skin.gif" align="left" height="250" alt="Character animation">
 
 **Editor:** Neovim (LazyVim)
 
